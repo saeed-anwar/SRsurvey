@@ -7,7 +7,7 @@ This repository is for super-resolution survey introduced in the following paper
 ## Contents
 1. [Introduction](#introduction)
 2. [Overview](#overview)
-3. [Datasets](#dataset)
+3. [Datasets](#datasets)
 4. [Results](#results)
 5. [Ablation](#ablation)
 6. [Citation](#citation)
