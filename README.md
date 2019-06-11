@@ -15,21 +15,8 @@ This repository is for super-resolution survey introduced in the following paper
 Deep convolutional networks based super-resolution is a fast-growing field with numerous practical applications. In this exposition, we extensively compare 30+ state-of-the-art super-resolution Convolutional Neural Networks (CNNs) over three classical and three recently introduced challenging datasets to benchmark single image super-resolution. We introduce a taxonomy for deep-learning based super-resolution networks that groups existing methods into nine categories including linear, residual, multi-branch, recursive, progressive, attention-based and adversarial designs. We also provide comparisons between the models in terms of network complexity, memory footprint, model input and output, learning details, the type of network losses and important architectural differences (e.g., depth, skip-connections, filters). The extensive evaluation performed, shows the consistent and rapid growth in the accuracy in the past few years along with a corresponding boost in model complexity and the availability of large-scale datasets. It is also observed that the pioneering methods identified as the benchmark have been significantly outperformed by the current contenders. Despite the progress in recent years, we identify several shortcomings of existing techniques and provide future research directions towards the solution of these open problems.
 
 ![Overview](/Figs/Overview.pdf)
-An overview of the existing single-image super-resolution techniques.![RCAB](/Figs/RCAB.PNG)
+An overview of the existing single-image super-resolution techniques.
 
-
-### The whole test pipeline
-1. Prepare test data.
-
-    Place the original test sets (e.g., Set5, other test sets are available from [GoogleDrive](https://drive.google.com/drive/folders/1xyiuTr6ga6ni-yfTP7kyPHRmfBakWovo?usp=sharing) or [Baidu](https://pan.baidu.com/s/1yBI_-rknXT2lm1UAAB_bag)) in 'OriginalTestData'.
-
-    Run 'Prepare_TestData_HR_LR.m' in Matlab to generate HR/LR images with different degradation models.
-2. Conduct image SR. 
-
-    See **Quick start**
-3. Evaluate the results.
-
-    Run 'Evaluate_PSNR_SSIM.m' to obtain PSNR/SSIM values for paper.
 
 
 
