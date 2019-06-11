@@ -22,10 +22,11 @@ An overview of the existing single-image super-resolution techniques.
 
 ## Results
 ### Quantitative Results
-![PSNR_SSIM_BI](/Figs/psnr_bi_1.PNG)
-![PSNR_SSIM_BI](/Figs/psnr_bi_2.PNG)
-![PSNR_SSIM_BI](/Figs/psnr_bi_3.PNG)
-Quantitative results with BI degradation model. Best and second best results are highlighted and underlined
+![PSNR_SSIM_BI](/Figs/2xTable.PNG)
+![PSNR_SSIM_BI](/Figs/3xTable.PNG)
+![PSNR_SSIM_BI](/Figs/4xTable.PNG)
+Mean PSNR and SSIM for the SR methods evaluated on the benchmark datasets. The ’-’ indicates that the method is not suitable to handle the
+images of the corresponding dataset.
 
 For more results, please refer to our [main papar](https://arxiv.org/abs/1807.02758) and [supplementary file](http://yulunzhang.com/papers/ECCV-2018-RCAN_supp.pdf).
 ### Visual Results
