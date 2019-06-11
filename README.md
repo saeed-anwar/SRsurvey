@@ -9,7 +9,7 @@ This repository is for super-resolution survey introduced in the following paper
 2. [Overview](#overview)
 3. [Datasets](#datasets)
 4. [Results](#results)
-5. [Ablation](#ablation)
+5. [Ablation](#ablation Studies)
 6. [Citation](#citation)
 7. [Acknowledgements](#acknowledgements)
 
@@ -54,8 +54,7 @@ Comparison of Multiplication-Addition operations in various SR networks. Note th
 Algorithmic runtime (during inference) is proportional to the multi-add operations.
 
 ![PARAMETERS_VS_PSNR](/Figs/params_comp.PNG)
-Comparison of number of parameters in various SR architectures. The memory footprint and training time of the model is directly related
-to the number of tunable parameters
+Comparison of number of parameters in various SR architectures. The memory footprint and training time of the model is directly related to the number of tunable parameters.
 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
