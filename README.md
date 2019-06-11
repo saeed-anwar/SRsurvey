@@ -9,7 +9,7 @@ This repository is for super-resolution survey introduced in the following paper
 2. [Overview](#overview)
 3. [Datasets](#datasets)
 4. [Results](#results)
-5. [Ablation](#ablation Studies)
+5. [Ablation](#ablation)
 6. [Citation](#citation)
 7. [Acknowledgements](#acknowledgements)
 
@@ -44,7 +44,7 @@ Super-resolution qualitative comparison for CNN-SR algorithms for 3x
 ![Visual_PSNR_SSIM_BI](/Figs/GAN.PNG)
 Visual comparison for GAN-SR algorithms for 4x
 
-## Ablation Studies
+## Ablation
 ![PARAMETERS_TABLE](/Figs/parameters.PNG)
 Parameters comparison of CNN-based SR algorithms. GRL stands for Global residual learning, LRL means Local residual learning, MST is
 abbreviation of Multi-scale training.
