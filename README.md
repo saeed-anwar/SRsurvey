@@ -20,9 +20,9 @@ Deep convolutional networks based super-resolution is a fast-growing field with 
 ![Overview](/Figs/Overview.png)
 An overview of the existing single-image super-resolution techniques.
 
-![Networks](/Figs/Net1.PNG)
-![Networks](/Figs/Net2.PNG)
-![Networks](/Figs/Net3.PNG)
+![Networks1](/Figs/Net1.PNG)
+![Networks2](/Figs/Net2.PNG)
+![Networks3](/Figs/Net3.PNG)
 
 A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
 
@@ -34,11 +34,13 @@ Representative test images from six super-resolution datasets used for comparing
 
 ## Results
 ### Quantitative Results
-![PSNR_SSIM_BI](/Figs/2xTable.PNG)
-![PSNR_SSIM_BI](/Figs/3xTable.PNG)
-![PSNR_SSIM_BI](/Figs/4xTable.PNG)
-Mean PSNR and SSIM for the SR methods evaluated on the benchmark datasets. The ’-’ indicates that the method is not suitable to handle the
-images of the corresponding dataset.
+![PSNR_SSIM_2x](/Figs/2xTable.PNG)
+![PSNR_SSIM_3x](/Figs/3xTable.PNG)
+![PSNR_SSIM_4x](/Figs/4xTable.PNG)
+Mean PSNR and SSIM for the SR methods evaluated on the benchmark datasets. The ’-’ indicates that the method is not suitable to handle the images of the corresponding dataset.
+
+![PSNR_SSIM_8x](/Figs/8xTable.PNG)
+The results for 8x Super-resolution.
 
 ### Visual Results
 
@@ -68,6 +70,14 @@ If you find the code helpful in your resarch or work, please cite the following 
   journal={arXiv preprint arXiv:1904.07523},
   year={2019}
 }
+
+@article{anwar2019drln,
+  title={Densely Residual Laplacian Super-Resolution},
+  author={Anwar, Saeed and Barnes, Nick},
+  journal={arXiv preprint arXiv:1906.12021},
+  year={2019}
+}
+
 ```
 ## Acknowledgements
 
