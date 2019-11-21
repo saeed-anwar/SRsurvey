@@ -21,6 +21,7 @@ Deep convolutional networks based super-resolution is a fast-growing field with 
 An overview of the existing single-image super-resolution techniques.
 
 ![Networks](/Figs/Nets.pdf)
+https://docs.google.com/viewer?url=${https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/Nets.pdf}
 A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
 
 ## Datasets
