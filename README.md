@@ -20,9 +20,9 @@ Deep convolutional networks based super-resolution is a fast-growing field with 
 ![Overview](/Figs/Overview.png)
 An overview of the existing single-image super-resolution techniques.
 
-![Networks](/Figs/Net1.png)
-![Networks](/Figs/Net2.png)
-![Networks](/Figs/Net3.png)
+![Networks](/Figs/Net1.PNG)
+![Networks](/Figs/Net2.PNG)
+![Networks](/Figs/Net3.PNG)
 
 A glimpse of diverse range of network architectures used for single-image super-resolution using deep networks.
 
@@ -42,9 +42,9 @@ images of the corresponding dataset.
 
 ### Visual Results
 
-![Visual_PSNR_SSIM_BI](/Figs/SRResults.PNG)
-Super-resolution qualitative comparison for CNN-SR algorithms for 3x
-![Visual_PSNR_SSIM_BI](/Figs/GAN.PNG)
+![Visual_PSNR_SSIM_BI](/Figs/Urban.PNG)
+Super-resolution qualitative comparison for CNN-SR algorithms for 4x and 8x
+![Visual_PSNR_SSIM_BI](/Figs/SR_GAN.PNG)
 Visual comparison for GAN-SR algorithms for 4x
 
 ## Ablation
