@@ -51,20 +51,20 @@ Visual comparison for GAN-SR algorithms for 4x
 
 ## Ablation
 ![PARAMETERS_TABLE](/Figs/parameters.PNG)
-<p align="center">
-  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/parameters.PNG">
-</p>
+
 Parameters comparison of CNN-based SR algorithms. GRL stands for Global residual learning, LRL means Local residual learning, MST is
 abbreviation of Multi-scale training.
 
-![PARAMETERS_MULT_ADD](/Figs/mult_adds_comp.PNG)
+
 <p align="center">
   <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/mult_adds_comp.PNG">
 </p>
 Comparison of Multiplication-Addition operations in various SR networks. Note that FLOPs are roughly double the number of mult-adds.
 Algorithmic runtime (during inference) is proportional to the multi-add operations.
 
-![PARAMETERS_VS_PSNR](/Figs/params_comp.PNG)
+<p align="center">
+  <img width="500" src="https://github.com/saeed-anwar/SRsurvey/blob/master/Figs/params_comp.PNG">
+</p>
 Comparison of number of parameters in various SR architectures. The memory footprint and training time of the model is directly related to the number of tunable parameters.
 
 ## Citation
