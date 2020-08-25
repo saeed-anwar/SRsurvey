@@ -1,7 +1,7 @@
 # A Deep Journey into Super-resolution: A survey
 This repository is for super-resolution survey introduced in the following paper
 
-[Saeed Anwar](https://saeed-anwar.github.io/), [Salman Khan], [Nick Barnes], "A Deep Journey into Super-resolution: A survey", [[arXiv]](https://arxiv.org/abs/1904.07523) 
+[Saeed Anwar](https://saeed-anwar.github.io/), [Salman Khan], [Nick Barnes], "A Deep Journey into Super-resolution: A survey", ACM Computing Surveys, June 2020. Available at [ACM](https://dl.acm.org/doi/abs/10.1145/3390462) and [arXiv](https://arxiv.org/abs/1904.07523) 
 
 
 ## Contents
@@ -70,11 +70,20 @@ Comparison of number of parameters in various SR architectures. The memory footp
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@article{anwar2019deep,
-  title={A Deep Journey into Super-resolution: A survey},
-  author={Anwar, Saeed and Khan, Salman and Barnes, Nick},
-  journal={arXiv preprint arXiv:1904.07523},
-  year={2019}
+@article{anwar2020deepSR,
+  author = {Anwar, Saeed and Khan, Salman and Barnes, Nick},
+  title = {A Deep Journey into Super-Resolution: A Survey},
+  year = {2020},
+  issue_date = {June 2020},
+  publisher = {Association for Computing Machinery (ACM)},
+  address = {New York, NY, USA},
+  volume = {53},
+  number = {3}, 
+  issn = {0360-0300},
+  journal = {ACM Computing Surveys (ACMCSUR)},
+  month = may,
+  articleno = {60}, 
+  numpages = {34},
 }
 
 @article{anwar2019drln,
